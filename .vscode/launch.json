@@ -1,0 +1,269 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "counting",
+      "request": "launch",
+      "mainClass": "counting",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "sorting",
+      "request": "launch",
+      "mainClass": "sorting",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "selection",
+      "request": "launch",
+      "mainClass": "selection",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "diagonal",
+      "request": "launch",
+      "mainClass": "diagonal",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "spiral",
+      "request": "launch",
+      "mainClass": "spiral",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "twoDimentional",
+      "request": "launch",
+      "mainClass": "twoDimentional",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "basicSort",
+      "request": "launch",
+      "mainClass": "basicSort",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "kadanses",
+      "request": "launch",
+      "mainClass": "kadanses",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "pairs",
+      "request": "launch",
+      "mainClass": "pairs",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "subpair",
+      "request": "launch",
+      "mainClass": "subpair",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "time",
+      "request": "launch",
+      "mainClass": "time",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "reverse",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "binary",
+      "request": "launch",
+      "mainClass": "binary",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "largest",
+      "request": "launch",
+      "mainClass": "largest",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "linSearch",
+      "request": "launch",
+      "mainClass": "linSearch",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "arrray",
+      "request": "launch",
+      "mainClass": "arrray",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "hollowRec",
+      "request": "launch",
+      "mainClass": "hollowRec",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "binToDec",
+      "request": "launch",
+      "mainClass": "binToDec",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "printPrim",
+      "request": "launch",
+      "mainClass": "printPrim",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "overloading",
+      "request": "launch",
+      "mainClass": "overloading",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "factorial",
+      "request": "launch",
+      "mainClass": "factorial",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "app",
+      "request": "launch",
+      "mainClass": "app",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "Practice",
+      "request": "launch",
+      "mainClass": "Practice",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "Ovrloading",
+      "request": "launch",
+      "mainClass": "Ovrloading",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "inheritance",
+      "request": "launch",
+      "mainClass": "inheritance",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "Oops",
+      "request": "launch",
+      "mainClass": "Oops",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "basics",
+      "request": "launch",
+      "mainClass": "basics",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "bit",
+      "request": "launch",
+      "mainClass": "bit",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "upper",
+      "request": "launch",
+      "mainClass": "upper",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "strLargest",
+      "request": "launch",
+      "mainClass": "strLargest",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "stringCompare",
+      "request": "launch",
+      "mainClass": "stringCompare",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "distance",
+      "request": "launch",
+      "mainClass": "distance",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
+      "name": "strings",
+      "request": "launch",
+      "mainClass": "strings",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/linux/java",
+      "program": "c:/linux/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
