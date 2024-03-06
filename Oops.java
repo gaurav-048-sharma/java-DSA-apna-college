@@ -27,10 +27,23 @@ public class Oops {
 class BankAccount { // class
     public String username;
     private String password;
-    int num;
+    int num = 10;
 
     public void setPass(String pwd) {
         pwd = password;
+
+    }
+
+}
+
+class Person {
+    public String name;
+    public String subject;
+    int marks;
+    private String hell;
+
+    public void message() {
+        System.out.println("Hello World!");
 
     }
 

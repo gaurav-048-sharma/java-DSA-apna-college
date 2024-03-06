@@ -10,7 +10,6 @@ public class twoD {
                     return true;
                 }
             }
-
         }
         System.out.println("not found");
         return false;
@@ -18,7 +17,7 @@ public class twoD {
 
     public static void main(String args[]) {
         int matrix[][] = new int[3][3];
-        int key = 9;
+        /// int key = 9;
         int n = matrix.length, m = matrix[0].length;
         Scanner sc = new Scanner(System.in);
         for (int i = 0; i < n; i++) {
@@ -32,6 +31,6 @@ public class twoD {
             }
             System.out.println();
         }
-        search(matrix, key);
+        // search(matrix, key);
     }
 }

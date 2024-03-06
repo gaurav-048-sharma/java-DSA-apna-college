@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Tileing",
+      "request": "launch",
+      "mainClass": "Tileing",
+      "projectName": "java_75edfb35"
+    },
+    {
+      "type": "java",
       "name": "counting",
       "request": "launch",
       "mainClass": "counting",
@@ -253,8 +260,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/linux/java",
-      "program": "c:/linux/java/build/Debug/outDebug",
+      "cwd": "c:/Linux/java",
+      "program": "c:/Linux/java/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
